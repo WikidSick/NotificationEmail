@@ -8,11 +8,13 @@ do to list.
 
 
 * simple web designe
+* login screen
+* regristration form
 * user regristration
 * user login
-* add items to list and define start and end dates
-* checks date and expire date daily
-* notification email can be set to "email"
-
-* full and active Website
-* somewere in not so near future possibility to add excel with pre set list of items 
+* add name/s to list
+* add items to list
+* add start and end date to list 
+* checks end date to actual date (checks end date to current if <= 90, 60, 30days  = true sends Notification Email )
+* Sends only 1 email if true
+* More to be announced
